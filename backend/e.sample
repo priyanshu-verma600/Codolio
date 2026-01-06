@@ -1,0 +1,5 @@
+REDIS_PASS = 4ZekFhbfQlArhJGFCRvmUyMjKzl6SOtM
+mongo: mongodb://localhost:27017/CodeIndia
+gemini key : AIzaSyD8hbXg5MeWEPeDdaEQEpGVIc0B4M22oy4
+cloudinary_name : dawm6rupn
+cloudinary_key : 485918925199917
